@@ -1,7 +1,7 @@
 # **ReelSync**
 ![ReelSync-logo](https://github.com/user-attachments/assets/13065016-014e-42ca-8590-e3be57bb8fa6)
 
-# Scalable Video Metadata Management System**
+# Scalable Video Metadata Management System
 
 ReelSync is a modular system for managing, processing, and storing metadata associated with video content. It is designed as a solo development project focused on practical implementation, technical learning, and AI-assisted development.
 
