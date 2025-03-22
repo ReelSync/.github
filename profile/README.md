@@ -1,5 +1,6 @@
 # **ReelSync**
-![ReelSync-logo](https://github.com/user-attachments/assets/13065016-014e-42ca-8590-e3be57bb8fa6)
+
+![ReelSync-logo](https://github.com/user-attachments/assets/a281c2b4-38a5-4208-a271-25607e26329f)
 
 # Scalable Video Metadata Management System
 
