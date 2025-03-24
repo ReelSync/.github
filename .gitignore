@@ -1,0 +1,14 @@
+# Obsidian-specific files and folders
+.obsidian/
+.obsidian_cache
+obsidian.css
+
+# Common plugin-related files and folders
+data.json
+workspace.json
+.vault-stats/
+.trash/
+
+# Other common files/folders to ignore
+.DS_Store
+Thumbs.db
